@@ -46,7 +46,7 @@ function weatherspeed(){
             console.log(result);
 
           var x = JSON.parse(result);
-         console.log(x.main.temp);
+         console.log(x.wind.speed);
          /* document.getElementById("xyz").innerHTML = "<h3><u>Temperature:</u><h3> " + x.main.temp +" F";
           console.log(x.weather.description);*/
          document.getElementById("abc").innerHTML = "<h3><u>Wind Speed: </u><h3>" + x.wind.speed+" m/s";
@@ -75,7 +75,7 @@ function weatherhumidity(){
             console.log(result);
 
           var x = JSON.parse(result);
-         console.log(x.main.temp);
+         console.log(x.main.humidity);
          /* document.getElementById("xyz").innerHTML = "<h3><u>Temperature:</u><h3> " + x.main.temp +" F";
           console.log(x.weather.description);*/
          /*document.getElementById("abc").innerHTML = "<h3><u>Wind Speed: </u><h3>" + x.wind.speed+" m/s";
