@@ -1,15 +1,20 @@
-# Weather Report
+# Weather and News Report
 
-Gives us information about the weather conditions like Temperature,Wind Speed,Humidity.
+Gives us information about the weather conditions like Temperature,Wind Speed,Humidity and current affairs.
 
-##Languages Used
+#Languages Used
 
 HTML,CSS,JavaScript.
 
-##API Used
+#API Used
 
-Open Weather Map
+Open Weather Map API
+News API
 
-##API Endpoint
+#API Endpoint
 
 City Weather Details
+Top articles
+Latest News
+
+Check it live at https://manugarg7.github.io/assessment-project/
