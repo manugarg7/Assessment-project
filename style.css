@@ -8,6 +8,26 @@ border-radius:4px;
 cursor: pointer;
 color: white;
 }
+.button2{
+  position: absolute;
+  top:400px;
+  right:618px;
+  background: red;
+  padding:6px;
+  border-radius:4px;
+  cursor: pointer;
+  color: white;
+  }
+  .button1{
+    position: absolute;
+    top:450px;
+    right:610px;
+    background: red;
+    padding:6px;
+    border-radius:4px;
+    cursor: pointer;
+    color: white;
+    }
 h1{
     position: absolute;
     top: 100px;
